@@ -1,0 +1,29 @@
+{
+    "DriveCar": {
+        "checkpoints": [
+            {
+                "steps": 58617,
+                "file_path": "results\\run17\\DriveCar\\DriveCar-58617.onnx",
+                "reward": -162.55746811489726,
+                "creation_time": 1677358013.7564423,
+                "auxillary_file_paths": [
+                    "results\\run17\\DriveCar\\DriveCar-58617.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 58617,
+            "file_path": "results\\run17\\DriveCar.onnx",
+            "reward": -162.55746811489726,
+            "creation_time": 1677358013.7564423,
+            "auxillary_file_paths": [
+                "results\\run17\\DriveCar\\DriveCar-58617.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "DriveCar": {
+        "checkpoints": [
+            {
+                "steps": 499989,
+                "file_path": "results\\run18\\DriveCar\\DriveCar-499989.onnx",
+                "reward": -424.51584821091484,
+                "creation_time": 1677411788.6838026,
+                "auxillary_file_paths": [
+                    "results\\run18\\DriveCar\\DriveCar-499989.pt"
+                ]
+            },
+            {
+                "steps": 999936,
+                "file_path": "results\\run18\\DriveCar\\DriveCar-999936.onnx",
+                "reward": -373.8426479384245,
+                "creation_time": 1677412083.1865907,
+                "auxillary_file_paths": [
+                    "results\\run18\\DriveCar\\DriveCar-999936.pt"
+                ]
+            },
+            {
+                "steps": 1204365,
+                "file_path": "results\\run18\\DriveCar\\DriveCar-1204365.onnx",
+                "reward": -395.31208816492267,
+                "creation_time": 1677412255.3234005,
+                "auxillary_file_paths": [
+                    "results\\run18\\DriveCar\\DriveCar-1204365.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1204365,
+            "file_path": "results\\run18\\DriveCar.onnx",
+            "reward": -395.31208816492267,
+            "creation_time": 1677412255.3234005,
+            "auxillary_file_paths": [
+                "results\\run18\\DriveCar\\DriveCar-1204365.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

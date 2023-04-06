@@ -1,0 +1,65 @@
+{
+    "DriveCar": {
+        "checkpoints": [
+            {
+                "steps": 9499968,
+                "file_path": "results\\run22\\DriveCar\\DriveCar-9499968.onnx",
+                "reward": 1182.2916666666667,
+                "creation_time": 1677447385.5448382,
+                "auxillary_file_paths": [
+                    "results\\run22\\DriveCar\\DriveCar-9499968.pt"
+                ]
+            },
+            {
+                "steps": 9999992,
+                "file_path": "results\\run22\\DriveCar\\DriveCar-9999992.onnx",
+                "reward": 1249.748427672956,
+                "creation_time": 1677447658.1391237,
+                "auxillary_file_paths": [
+                    "results\\run22\\DriveCar\\DriveCar-9999992.pt"
+                ]
+            },
+            {
+                "steps": 10499968,
+                "file_path": "results\\run22\\DriveCar\\DriveCar-10499968.onnx",
+                "reward": 1067.7142857142858,
+                "creation_time": 1677447899.8229675,
+                "auxillary_file_paths": [
+                    "results\\run22\\DriveCar\\DriveCar-10499968.pt"
+                ]
+            },
+            {
+                "steps": 10999936,
+                "file_path": "results\\run22\\DriveCar\\DriveCar-10999936.onnx",
+                "reward": 1178.5833333333333,
+                "creation_time": 1677448139.8284671,
+                "auxillary_file_paths": [
+                    "results\\run22\\DriveCar\\DriveCar-10999936.pt"
+                ]
+            },
+            {
+                "steps": 11109120,
+                "file_path": "results\\run22\\DriveCar\\DriveCar-11109120.onnx",
+                "reward": 1277.9583333333333,
+                "creation_time": 1677448271.105219,
+                "auxillary_file_paths": [
+                    "results\\run22\\DriveCar\\DriveCar-11109120.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11109120,
+            "file_path": "results\\run22\\DriveCar.onnx",
+            "reward": 1277.9583333333333,
+            "creation_time": 1677448271.105219,
+            "auxillary_file_paths": [
+                "results\\run22\\DriveCar\\DriveCar-11109120.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
